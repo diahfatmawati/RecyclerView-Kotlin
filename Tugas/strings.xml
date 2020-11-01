@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="alarm">alarm</string>
+    <string name="time_to">Time to</string>
+    <string name="jam">jam</string>
+    <string name="todo">TODO</string>
+</resources>
